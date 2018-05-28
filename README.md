@@ -31,6 +31,7 @@ navigating to the `corrode` directory, installing the `happy` and `alex` tools,
 and then building and installing the `corrode` package:
 
 ```
+cabal update
 cabal install happy
 cabal install alex
 cabal install
